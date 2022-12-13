@@ -4,7 +4,7 @@ key = 0
 
 
 def decrypt_values(encryp_dict):
-	"""This function return a decrypted dictionary from the passed argument
+	"""This function return a decrypted dictionary based on the passed argument
 
 	Parameter:
 		- encryp_dict: a key-value pair containing encrypted values
